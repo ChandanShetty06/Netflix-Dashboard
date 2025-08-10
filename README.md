@@ -54,7 +54,7 @@ This video condenses dashboard creation into a quick, engaging tutorial format.
 
 ---
 
-Screenshots / Demos
+## Screenshots / Demos
 show what the dasshboard look like. - !(https://github.com/ChandanShetty06/Netflix-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
 
 ##  Contact & Feedback
