@@ -1,6 +1,6 @@
- #  Power BI Netflix Dashboard (Inspired by Data Science RoadMap)
+ # 📊 Power BI Netflix Dashboard (Inspired by Data Science RoadMap)
 
-##  Overview
+## 🚀 Overview
 This project is inspired by the Data Science RoadMap YouTube tutorial *"Create an Amazing Power BI Dashboard in 19 minutes | Netflix Movies and TV Shows"*. It walks you through building an interactive Power BI dashboard using a Netflix dataset to analyze content trends, genre distribution, global reach, and more.
 
 ---
@@ -54,8 +54,8 @@ This video condenses dashboard creation into a quick, engaging tutorial format.
 
 ---
 
-## Screenshots / Demos
-show what the dasshboard look like. - !(https://github.com/ChandanShetty06/Netflix-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
+## Dashboard Preview
+![Netflix Dashboard Screenshot](https://github.com/ChandanShetty06/Netflix-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
 
 ##  Contact & Feedback
 Let me know your thoughts or questions! Connect with me on [LinkedIn](YOUR_LINK_HERE).
